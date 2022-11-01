@@ -7,7 +7,7 @@
  estou apredendo:<br>
  ●<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
  conectar comigo:<br>
- ●<a href="https://www.instagram.com/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ ●<a href="https://www.instagram.com/joao_vitor099p?r=nametag"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
  
 
